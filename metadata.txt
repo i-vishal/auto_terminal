@@ -11,9 +11,9 @@ about=Creates T1, T2, T3 terminals automatically and populates TRM_SIZE, START_C
  
 category=Vector
  
-homepage=https://github.com/ncircle04/auto_terminal
-repository=https://github.com/ncircle04/auto_terminal
-tracker=https://github.com/ncircle04/auto_terminal/issues
+homepage=https://github.com/i-vishal/auto_terminal
+repository=https://github.com/i-vishal/auto_terminal
+tracker=https://github.com/i-vishal/auto_terminal/issues
  
 tags=ftth,fiber,terminal,qgis,gis,automation
  
