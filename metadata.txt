@@ -1,0 +1,23 @@
+[general]
+name=auto_terminal
+version=1.0.0
+qgisMinimumVersion=3.22
+ 
+author=Vishal Desai
+email=ncircle04@gmail.com
+ 
+description=Automatically place FTTH terminals and generate counts from Wirelimit size.
+about=Creates T1, T2, T3 terminals automatically and populates TRM_SIZE, START_COUN and TRM_COUNTS.
+ 
+category=Vector
+ 
+homepage=https://github.com/ncircle04/auto_terminal
+repository=https://github.com/ncircle04/auto_terminal
+tracker=https://github.com/ncircle04/auto_terminal/issues
+ 
+tags=ftth,fiber,terminal,qgis,gis,automation
+ 
+experimental=False
+deprecated=False
+ 
+icon=icon.png
