@@ -7,7 +7,7 @@ qgisMaximumVersion=3.99
 description=Automatic terminal placement on nearby Cable_path features
 about=Creates terminals automatically and connects them to the nearest Cable_path feature.
  
-version=1.0.1
+version=1.0.2
 author=Vishal Desai
 email=ncircle04@gmail.com
  
