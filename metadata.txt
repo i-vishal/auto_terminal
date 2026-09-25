@@ -1,23 +1,27 @@
 [general]
-name=auto_terminal
-version=1.0.0
-qgisMinimumVersion=3.22
  
+name=AutoTerminalFP
+qgisMinimumVersion=3.22
+qgisMaximumVersion=3.99
+ 
+description=Automatic terminal placement on nearby Cable_path features
+about=Creates terminals automatically and connects them to the nearest Cable_path feature.
+ 
+version=1.0.1
 author=Vishal Desai
 email=ncircle04@gmail.com
- 
-description=Automatically place FTTH terminals and generate counts from Wirelimit size.
-about=Creates T1, T2, T3 terminals automatically and populates TRM_SIZE, START_COUN and TRM_COUNTS.
- 
-category=Vector
  
 homepage=https://github.com/i-vishal/auto_terminal
 repository=https://github.com/i-vishal/auto_terminal
 tracker=https://github.com/i-vishal/auto_terminal/issues
  
-tags=ftth,fiber,terminal,qgis,gis,automation
+category=Vector
+icon=icon.png
  
 experimental=False
 deprecated=False
+hasProcessingProvider=False
+server=False
  
+tags=terminal,cable,fiber,gis,ftth
 icon=icon.png
