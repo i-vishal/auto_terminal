@@ -24,4 +24,4 @@ hasProcessingProvider=False
 server=False
  
 tags=terminal,cable,fiber,gis,ftth
-icon=icon.png
+
